@@ -1,4 +1,5 @@
 Just testing out how to commit things from the command line...
 Adding stuff to test out other parts of git.
 Adding stuff to test out branching in git.
+Doing some more testing.
 Hello world.
